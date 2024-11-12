@@ -1,0 +1,20 @@
+html,
+body,
+#root,
+main {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+* {
+    user-select: none;
+    -webkit-user-select: none;
+    cursor: default !important;
+}
+
+body {
+    color: #f0f0f0;
+    background: #0a0a0a;
+    font-family: -apple-system, serif;
+}
